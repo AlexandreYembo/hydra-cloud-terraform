@@ -1,6 +1,6 @@
 
 ### Commands
-This document contains steps to help you to build and create a infrastructure on Azure by Using terraform scripts.
+This document contains steps to help you to build and create an infrastructure on Azure by Using terraform scripts.
 
 ### Configuring variables
 1- On ```variables.tf``` you need to specify your Azure SubscriptionId on the variable name: ```AzSubscriptionId```
