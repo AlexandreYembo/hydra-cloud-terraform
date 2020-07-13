@@ -22,8 +22,12 @@ variable "Hydra_IdentityServerSite_Name" {
     default = "hydraidentityserversite"
 }
 
+variable "Hydra_Admin" {
+  default = "hydraadmin"
+}
+
 variable "AzSubscriptionId" {
-  default = ""
+  default = "<your-azure-subscription>"
 }
 
 variable "environment" {

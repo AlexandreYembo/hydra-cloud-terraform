@@ -1,0 +1,9 @@
+
+azure/.terraform/plugins/darwin_amd64/lock.json
+.DS_Store
+azure/.DS_Store
+azure/.terraform/plugins/darwin_amd64/terraform-provider-azurerm_v2.4.0_x5
+*.tfstate
+azure/start-state/.terraform/plugins/darwin_amd64/lock.json
+azure/start-state/.terraform/plugins/darwin_amd64/terraform-provider-azurerm_v2.4.0_x5
+azure/.DS_Store
